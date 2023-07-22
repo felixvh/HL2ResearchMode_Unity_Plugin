@@ -1,103 +1,31 @@
-﻿  64 bit MIDLRT Processing D:\3_Mixed-Reality\2_UnityProjects\HL2_ResearchMode_UnityPlugIn\HL2ResearchMode_Unity_Plugin\HL2UnityPlugin\HL2ResearchMode.idl
-  HL2ResearchMode.idl
-  64 bit MIDLRT Processing C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\winrt\winrtbase.idl
-  winrtbase.idl
-  64 bit MIDLRT Processing C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\winrt\midlbase.idl
-  midlbase.idl
-  Processing WinMD c:\program files (x86)\windows kits\10\references\10.0.18362.0\windows.ai.machinelearning.machinelearningcontract\2.0.0.0\windows.ai.machinelearning.machinelearningcontract.winmd
-  Processing WinMD c:\program files (x86)\windows kits\10\references\10.0.18362.0\windows.ai.machinelearning.preview.machinelearningpreviewcontract\2.0.0.0\windows.ai.machinelearning.preview.machinelearningpreviewcontract.winmd
-  Processing WinMD c:\program files (x86)\windows kits\10\references\10.0.18362.0\windows.applicationmodel.calls.background.callsbackgroundcontract\2.0.0.0\windows.applicationmodel.calls.background.callsbackgroundcontract.winmd
-  Processing WinMD c:\program files (x86)\windows kits\10\references\10.0.18362.0\windows.applicationmodel.calls.callsphonecontract\5.0.0.0\windows.applicationmodel.calls.callsphonecontract.winmd
-  Processing WinMD c:\program files (x86)\windows kits\10\references\10.0.18362.0\windows.applicationmodel.calls.callsvoipcontract\4.0.0.0\windows.applicationmodel.calls.callsvoipcontract.winmd
-  Processing WinMD c:\program files (x86)\windows kits\10\references\10.0.18362.0\windows.applicationmodel.communicationblocking.communicationblockingcontract\2.0.0.0\windows.applicationmodel.communicationblocking.communicationblockingcontract.winmd
-  Processing WinMD c:\program files (x86)\windows kits\10\references\10.0.18362.0\windows.applicationmodel.socialinfo.socialinfocontract\2.0.0.0\windows.applicationmodel.socialinfo.socialinfocontract.winmd
-  Processing WinMD c:\program files (x86)\windows kits\10\references\10.0.18362.0\windows.applicationmodel.startuptaskcontract\3.0.0.0\windows.applicationmodel.startuptaskcontract.winmd
-  Processing WinMD c:\program files (x86)\windows kits\10\references\10.0.18362.0\windows.devices.custom.customdevicecontract\1.0.0.0\windows.devices.custom.customdevicecontract.winmd
-  Processing WinMD c:\program files (x86)\windows kits\10\references\10.0.18362.0\windows.devices.deviceslowlevelcontract\3.0.0.0\windows.devices.deviceslowlevelcontract.winmd
-  Processing WinMD c:\program files (x86)\windows kits\10\references\10.0.18362.0\windows.devices.printers.printerscontract\1.0.0.0\windows.devices.printers.printerscontract.winmd
-  Processing WinMD c:\program files (x86)\windows kits\10\references\10.0.18362.0\windows.devices.smartcards.smartcardbackgroundtriggercontract\3.0.0.0\windows.devices.smartcards.smartcardbackgroundtriggercontract.winmd
-  Processing WinMD c:\program files (x86)\windows kits\10\references\10.0.18362.0\windows.devices.smartcards.smartcardemulatorcontract\6.0.0.0\windows.devices.smartcards.smartcardemulatorcontract.winmd
-  Processing WinMD c:\program files (x86)\windows kits\10\references\10.0.18362.0\windows.foundation.foundationcontract\3.0.0.0\windows.foundation.foundationcontract.winmd
-  Processing WinMD c:\program files (x86)\windows kits\10\references\10.0.18362.0\windows.foundation.universalapicontract\8.0.0.0\windows.foundation.universalapicontract.winmd
-  Processing WinMD c:\program files (x86)\windows kits\10\references\10.0.18362.0\windows.gaming.xboxlive.storageapicontract\1.0.0.0\windows.gaming.xboxlive.storageapicontract.winmd
-  Processing WinMD c:\program files (x86)\windows kits\10\references\10.0.18362.0\windows.graphics.printing3d.printing3dcontract\4.0.0.0\windows.graphics.printing3d.printing3dcontract.winmd
-  Processing WinMD c:\program files (x86)\windows kits\10\references\10.0.18362.0\windows.networking.connectivity.wwancontract\2.0.0.0\windows.networking.connectivity.wwancontract.winmd
-  Processing WinMD c:\program files (x86)\windows kits\10\references\10.0.18362.0\windows.networking.sockets.controlchanneltriggercontract\3.0.0.0\windows.networking.sockets.controlchanneltriggercontract.winmd
-  Processing WinMD c:\program files (x86)\windows kits\10\references\10.0.18362.0\windows.services.maps.guidancecontract\3.0.0.0\windows.services.maps.guidancecontract.winmd
-  Processing WinMD c:\program files (x86)\windows kits\10\references\10.0.18362.0\windows.services.maps.localsearchcontract\4.0.0.0\windows.services.maps.localsearchcontract.winmd
-  Processing WinMD c:\program files (x86)\windows kits\10\references\10.0.18362.0\windows.services.store.storecontract\4.0.0.0\windows.services.store.storecontract.winmd
-  Processing WinMD c:\program files (x86)\windows kits\10\references\10.0.18362.0\windows.services.targetedcontent.targetedcontentcontract\1.0.0.0\windows.services.targetedcontent.targetedcontentcontract.winmd
-  Processing WinMD c:\program files (x86)\windows kits\10\references\10.0.18362.0\windows.system.profile.profilehardwaretokencontract\1.0.0.0\windows.system.profile.profilehardwaretokencontract.winmd
-  Processing WinMD c:\program files (x86)\windows kits\10\references\10.0.18362.0\windows.system.profile.profilesharedmodecontract\2.0.0.0\windows.system.profile.profilesharedmodecontract.winmd
-  Processing WinMD c:\program files (x86)\windows kits\10\references\10.0.18362.0\windows.system.profile.systemmanufacturers.systemmanufacturerscontract\3.0.0.0\windows.system.profile.systemmanufacturers.systemmanufacturerscontract.winmd
-  Processing WinMD c:\program files (x86)\windows kits\10\references\10.0.18362.0\windows.system.systemmanagementcontract\6.0.0.0\windows.system.systemmanagementcontract.winmd
-  Processing WinMD c:\program files (x86)\windows kits\10\references\10.0.18362.0\windows.ui.viewmanagement.viewmanagementviewscalingcontract\1.0.0.0\windows.ui.viewmanagement.viewmanagementviewscalingcontract.winmd
-  Processing WinMD c:\program files (x86)\windows kits\10\references\10.0.18362.0\windows.ui.xaml.core.direct.xamldirectcontract\2.0.0.0\windows.ui.xaml.core.direct.xamldirectcontract.winmd
-  Microsoft(R) Metadata Merge Utility Version 10.0.48.
-  
-  
-  Load input metadata file C:\Program Files (x86)\Windows Kits\10\References\10.0.18362.0\Windows.AI.MachineLearning.MachineLearningContract\2.0.0.0\Windows.AI.MachineLearning.MachineLearningContract.winmd.
-  Load input metadata file C:\Program Files (x86)\Windows Kits\10\References\10.0.18362.0\Windows.AI.MachineLearning.Preview.MachineLearningPreviewContract\2.0.0.0\Windows.AI.MachineLearning.Preview.MachineLearningPreviewContract.winmd.
-  Load input metadata file C:\Program Files (x86)\Windows Kits\10\References\10.0.18362.0\Windows.ApplicationModel.Calls.Background.CallsBackgroundContract\2.0.0.0\Windows.ApplicationModel.Calls.Background.CallsBackgroundContract.winmd.
-  Load input metadata file C:\Program Files (x86)\Windows Kits\10\References\10.0.18362.0\Windows.ApplicationModel.Calls.CallsPhoneContract\5.0.0.0\Windows.ApplicationModel.Calls.CallsPhoneContract.winmd.
-  Load input metadata file C:\Program Files (x86)\Windows Kits\10\References\10.0.18362.0\Windows.ApplicationModel.Calls.CallsVoipContract\4.0.0.0\Windows.ApplicationModel.Calls.CallsVoipContract.winmd.
-  Load input metadata file C:\Program Files (x86)\Windows Kits\10\References\10.0.18362.0\Windows.ApplicationModel.CommunicationBlocking.CommunicationBlockingContract\2.0.0.0\Windows.ApplicationModel.CommunicationBlocking.CommunicationBlockingContract.winmd.
-  Load input metadata file C:\Program Files (x86)\Windows Kits\10\References\10.0.18362.0\Windows.ApplicationModel.SocialInfo.SocialInfoContract\2.0.0.0\Windows.ApplicationModel.SocialInfo.SocialInfoContract.winmd.
-  Load input metadata file C:\Program Files (x86)\Windows Kits\10\References\10.0.18362.0\Windows.ApplicationModel.StartupTaskContract\3.0.0.0\Windows.ApplicationModel.StartupTaskContract.winmd.
-  Load input metadata file C:\Program Files (x86)\Windows Kits\10\References\10.0.18362.0\Windows.Devices.Custom.CustomDeviceContract\1.0.0.0\Windows.Devices.Custom.CustomDeviceContract.winmd.
-  Load input metadata file C:\Program Files (x86)\Windows Kits\10\References\10.0.18362.0\Windows.Devices.DevicesLowLevelContract\3.0.0.0\Windows.Devices.DevicesLowLevelContract.winmd.
-  Load input metadata file C:\Program Files (x86)\Windows Kits\10\References\10.0.18362.0\Windows.Devices.Printers.PrintersContract\1.0.0.0\Windows.Devices.Printers.PrintersContract.winmd.
-  Load input metadata file C:\Program Files (x86)\Windows Kits\10\References\10.0.18362.0\Windows.Devices.SmartCards.SmartCardBackgroundTriggerContract\3.0.0.0\Windows.Devices.SmartCards.SmartCardBackgroundTriggerContract.winmd.
-  Load input metadata file C:\Program Files (x86)\Windows Kits\10\References\10.0.18362.0\Windows.Devices.SmartCards.SmartCardEmulatorContract\6.0.0.0\Windows.Devices.SmartCards.SmartCardEmulatorContract.winmd.
-  Load input metadata file C:\Program Files (x86)\Windows Kits\10\References\10.0.18362.0\Windows.Foundation.FoundationContract\3.0.0.0\Windows.Foundation.FoundationContract.winmd.
-  Load input metadata file C:\Program Files (x86)\Windows Kits\10\References\10.0.18362.0\Windows.Foundation.UniversalApiContract\8.0.0.0\Windows.Foundation.UniversalApiContract.winmd.
-  Load input metadata file C:\Program Files (x86)\Windows Kits\10\References\10.0.18362.0\Windows.Gaming.XboxLive.StorageApiContract\1.0.0.0\Windows.Gaming.XboxLive.StorageApiContract.winmd.
-  Load input metadata file C:\Program Files (x86)\Windows Kits\10\References\10.0.18362.0\Windows.Graphics.Printing3D.Printing3DContract\4.0.0.0\Windows.Graphics.Printing3D.Printing3DContract.winmd.
-  Load input metadata file C:\Program Files (x86)\Windows Kits\10\References\10.0.18362.0\Windows.Networking.Connectivity.WwanContract\2.0.0.0\Windows.Networking.Connectivity.WwanContract.winmd.
-  Load input metadata file C:\Program Files (x86)\Windows Kits\10\References\10.0.18362.0\Windows.Networking.Sockets.ControlChannelTriggerContract\3.0.0.0\Windows.Networking.Sockets.ControlChannelTriggerContract.winmd.
-  Load input metadata file C:\Program Files (x86)\Windows Kits\10\References\10.0.18362.0\Windows.Services.Maps.GuidanceContract\3.0.0.0\Windows.Services.Maps.GuidanceContract.winmd.
-  Load input metadata file C:\Program Files (x86)\Windows Kits\10\References\10.0.18362.0\Windows.Services.Maps.LocalSearchContract\4.0.0.0\Windows.Services.Maps.LocalSearchContract.winmd.
-  Load input metadata file C:\Program Files (x86)\Windows Kits\10\References\10.0.18362.0\Windows.Services.Store.StoreContract\4.0.0.0\Windows.Services.Store.StoreContract.winmd.
-  Load input metadata file C:\Program Files (x86)\Windows Kits\10\References\10.0.18362.0\Windows.Services.TargetedContent.TargetedContentContract\1.0.0.0\Windows.Services.TargetedContent.TargetedContentContract.winmd.
-  Load input metadata file C:\Program Files (x86)\Windows Kits\10\References\10.0.18362.0\Windows.System.Profile.ProfileHardwareTokenContract\1.0.0.0\Windows.System.Profile.ProfileHardwareTokenContract.winmd.
-  Load input metadata file C:\Program Files (x86)\Windows Kits\10\References\10.0.18362.0\Windows.System.Profile.ProfileSharedModeContract\2.0.0.0\Windows.System.Profile.ProfileSharedModeContract.winmd.
-  Load input metadata file C:\Program Files (x86)\Windows Kits\10\References\10.0.18362.0\Windows.System.Profile.SystemManufacturers.SystemManufacturersContract\3.0.0.0\Windows.System.Profile.SystemManufacturers.SystemManufacturersContract.winmd.
-  Load input metadata file C:\Program Files (x86)\Windows Kits\10\References\10.0.18362.0\Windows.System.SystemManagementContract\6.0.0.0\Windows.System.SystemManagementContract.winmd.
-  Load input metadata file C:\Program Files (x86)\Windows Kits\10\References\10.0.18362.0\Windows.UI.ViewManagement.ViewManagementViewScalingContract\1.0.0.0\Windows.UI.ViewManagement.ViewManagementViewScalingContract.winmd.
-  Load input metadata file C:\Program Files (x86)\Windows Kits\10\References\10.0.18362.0\Windows.UI.Xaml.Core.Direct.XamlDirectContract\2.0.0.0\Windows.UI.Xaml.Core.Direct.XamlDirectContract.winmd.
-  Processing input metadata file ARM64\Release\Unmerged\HL2ResearchMode.winmd.
-  Saved output metadata file HL2UnityPlugin.winmd.
-  Validating metadata file ARM64\Release\Merged\HL2UnityPlugin.winmd.
-  pch.cpp
-  HL2ResearchMode.cpp
-  module.g.cpp
-D:\3_Mixed-Reality\2_UnityProjects\HL2_ResearchMode_UnityPlugIn\HL2ResearchMode_Unity_Plugin\HL2UnityPlugin\HL2ResearchMode.h(143,5): warning C4324: "winrt::HL2UnityPlugin::implementation::HL2ResearchMode": Die Struktur wurde aufgrund des Ausrichtungsspezifizierers aufgefüllt. (Quelldatei wird kompiliert HL2ResearchMode.cpp)
-D:\3_Mixed-Reality\2_UnityProjects\HL2_ResearchMode_UnityPlugIn\HL2ResearchMode_Unity_Plugin\HL2UnityPlugin\HL2ResearchMode.h(135,29): warning C4305: "Initialisierung": Verkürzung von "double" in "float" (Quelldatei wird kompiliert HL2ResearchMode.cpp)
-D:\3_Mixed-Reality\2_UnityProjects\HL2_ResearchMode_UnityPlugIn\HL2ResearchMode_Unity_Plugin\HL2UnityPlugin\HL2ResearchMode.h(137,29): warning C4305: "Initialisierung": Verkürzung von "double" in "float" (Quelldatei wird kompiliert HL2ResearchMode.cpp)
-D:\3_Mixed-Reality\2_UnityProjects\HL2_ResearchMode_UnityPlugIn\HL2ResearchMode_Unity_Plugin\HL2UnityPlugin\HL2ResearchMode.h(138,29): warning C4305: "Initialisierung": Verkürzung von "double" in "float" (Quelldatei wird kompiliert HL2ResearchMode.cpp)
+﻿  HL2ResearchMode.cpp
+D:\3_Mixed-Reality\2_UnityProjects\HL2_ResearchMode_UnityPlugIn\HL2ResearchMode_Unity_Plugin\HL2UnityPlugin\HL2ResearchMode.h(143,5): warning C4324: "winrt::HL2UnityPlugin::implementation::HL2ResearchMode": Die Struktur wurde aufgrund des Ausrichtungsspezifizierers aufgefüllt.
+D:\3_Mixed-Reality\2_UnityProjects\HL2_ResearchMode_UnityPlugIn\HL2ResearchMode_Unity_Plugin\HL2UnityPlugin\HL2ResearchMode.h(135,29): warning C4305: "Initialisierung": Verkürzung von "double" in "float"
+D:\3_Mixed-Reality\2_UnityProjects\HL2_ResearchMode_UnityPlugIn\HL2ResearchMode_Unity_Plugin\HL2UnityPlugin\HL2ResearchMode.h(137,29): warning C4305: "Initialisierung": Verkürzung von "double" in "float"
+D:\3_Mixed-Reality\2_UnityProjects\HL2_ResearchMode_UnityPlugIn\HL2ResearchMode_Unity_Plugin\HL2UnityPlugin\HL2ResearchMode.h(138,29): warning C4305: "Initialisierung": Verkürzung von "double" in "float"
 D:\3_Mixed-Reality\2_UnityProjects\HL2_ResearchMode_UnityPlugIn\HL2ResearchMode_Unity_Plugin\HL2UnityPlugin\HL2ResearchMode.cpp(27,17): warning C4189: "hr": Lokale Variable ist initialisiert aber nicht referenziert
-D:\3_Mixed-Reality\2_UnityProjects\HL2_ResearchMode_UnityPlugIn\HL2ResearchMode_Unity_Plugin\HL2UnityPlugin\HL2ResearchMode.cpp(158,69): warning C4267: "Argument": Konvertierung von "size_t" nach "const _Ty", Datenverlust möglich
+D:\3_Mixed-Reality\2_UnityProjects\HL2_ResearchMode_UnityPlugIn\HL2ResearchMode_Unity_Plugin\HL2UnityPlugin\HL2ResearchMode.cpp(160,69): warning C4267: "Argument": Konvertierung von "size_t" nach "const _Ty", Datenverlust möglich
           with
           [
               _Ty=int
           ]
-D:\3_Mixed-Reality\2_UnityProjects\HL2_ResearchMode_UnityPlugIn\HL2ResearchMode_Unity_Plugin\HL2UnityPlugin\HL2ResearchMode.cpp(216,45): warning C4838: Konvertierung von "UINT" zu "float" erfordert eine einschränkende Konvertierung
-D:\3_Mixed-Reality\2_UnityProjects\HL2_ResearchMode_UnityPlugIn\HL2ResearchMode_Unity_Plugin\HL2UnityPlugin\HL2ResearchMode.cpp(216,45): warning C4244: "Initialisierung": Konvertierung von "UINT" in "float", möglicher Datenverlust
-D:\3_Mixed-Reality\2_UnityProjects\HL2_ResearchMode_UnityPlugIn\HL2ResearchMode_Unity_Plugin\HL2UnityPlugin\HL2ResearchMode.cpp(216,48): warning C4838: Konvertierung von "UINT" zu "float" erfordert eine einschränkende Konvertierung
-D:\3_Mixed-Reality\2_UnityProjects\HL2_ResearchMode_UnityPlugIn\HL2ResearchMode_Unity_Plugin\HL2UnityPlugin\HL2ResearchMode.cpp(216,48): warning C4244: "Initialisierung": Konvertierung von "UINT" in "float", möglicher Datenverlust
-D:\3_Mixed-Reality\2_UnityProjects\HL2_ResearchMode_UnityPlugIn\HL2ResearchMode_Unity_Plugin\HL2UnityPlugin\HL2ResearchMode.cpp(293,77): warning C4267: "=": Konvertierung von "size_t" nach "int", Datenverlust möglich
-D:\3_Mixed-Reality\2_UnityProjects\HL2_ResearchMode_UnityPlugIn\HL2ResearchMode_Unity_Plugin\HL2UnityPlugin\HL2ResearchMode.cpp(201,24): warning C4189: "maxAbValue": Lokale Variable ist initialisiert aber nicht referenziert
-D:\3_Mixed-Reality\2_UnityProjects\HL2_ResearchMode_UnityPlugIn\HL2ResearchMode_Unity_Plugin\HL2UnityPlugin\HL2ResearchMode.cpp(395,73): warning C4267: "Argument": Konvertierung von "size_t" nach "const _Ty", Datenverlust möglich
+D:\3_Mixed-Reality\2_UnityProjects\HL2_ResearchMode_UnityPlugIn\HL2ResearchMode_Unity_Plugin\HL2UnityPlugin\HL2ResearchMode.cpp(218,45): warning C4838: Konvertierung von "UINT" zu "float" erfordert eine einschränkende Konvertierung
+D:\3_Mixed-Reality\2_UnityProjects\HL2_ResearchMode_UnityPlugIn\HL2ResearchMode_Unity_Plugin\HL2UnityPlugin\HL2ResearchMode.cpp(218,45): warning C4244: "Initialisierung": Konvertierung von "UINT" in "float", möglicher Datenverlust
+D:\3_Mixed-Reality\2_UnityProjects\HL2_ResearchMode_UnityPlugIn\HL2ResearchMode_Unity_Plugin\HL2UnityPlugin\HL2ResearchMode.cpp(218,48): warning C4838: Konvertierung von "UINT" zu "float" erfordert eine einschränkende Konvertierung
+D:\3_Mixed-Reality\2_UnityProjects\HL2_ResearchMode_UnityPlugIn\HL2ResearchMode_Unity_Plugin\HL2UnityPlugin\HL2ResearchMode.cpp(218,48): warning C4244: "Initialisierung": Konvertierung von "UINT" in "float", möglicher Datenverlust
+D:\3_Mixed-Reality\2_UnityProjects\HL2_ResearchMode_UnityPlugIn\HL2ResearchMode_Unity_Plugin\HL2UnityPlugin\HL2ResearchMode.cpp(295,77): warning C4267: "=": Konvertierung von "size_t" nach "int", Datenverlust möglich
+D:\3_Mixed-Reality\2_UnityProjects\HL2_ResearchMode_UnityPlugIn\HL2ResearchMode_Unity_Plugin\HL2UnityPlugin\HL2ResearchMode.cpp(203,24): warning C4189: "maxAbValue": Lokale Variable ist initialisiert aber nicht referenziert
+D:\3_Mixed-Reality\2_UnityProjects\HL2_ResearchMode_UnityPlugIn\HL2ResearchMode_Unity_Plugin\HL2UnityPlugin\HL2ResearchMode.cpp(397,73): warning C4267: "Argument": Konvertierung von "size_t" nach "const _Ty", Datenverlust möglich
           with
           [
               _Ty=int
           ]
-D:\3_Mixed-Reality\2_UnityProjects\HL2_ResearchMode_UnityPlugIn\HL2ResearchMode_Unity_Plugin\HL2UnityPlugin\HL2ResearchMode.cpp(516,68): warning C4267: "Argument": Konvertierung von "size_t" nach "const _Ty", Datenverlust möglich
+D:\3_Mixed-Reality\2_UnityProjects\HL2_ResearchMode_UnityPlugIn\HL2ResearchMode_Unity_Plugin\HL2UnityPlugin\HL2ResearchMode.cpp(518,68): warning C4267: "Argument": Konvertierung von "size_t" nach "const _Ty", Datenverlust möglich
           with
           [
               _Ty=int
           ]
-D:\3_Mixed-Reality\2_UnityProjects\HL2_ResearchMode_UnityPlugIn\HL2ResearchMode_Unity_Plugin\HL2UnityPlugin\HL2ResearchMode.cpp(520,56): warning C4267: "Argument": Konvertierung von "size_t" nach "const _Ty", Datenverlust möglich
+D:\3_Mixed-Reality\2_UnityProjects\HL2_ResearchMode_UnityPlugIn\HL2ResearchMode_Unity_Plugin\HL2UnityPlugin\HL2ResearchMode.cpp(522,56): warning C4267: "Argument": Konvertierung von "size_t" nach "const _Ty", Datenverlust möglich
           with
           [
               _Ty=int

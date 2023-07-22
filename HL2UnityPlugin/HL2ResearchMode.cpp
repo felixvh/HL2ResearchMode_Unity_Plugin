@@ -25,6 +25,8 @@ namespace winrt::HL2UnityPlugin::implementation
         camConsentGiven = CreateEvent(nullptr, true, false, nullptr);
         HMODULE hrResearchMode = LoadLibraryA("ResearchModeAPI");
         HRESULT hr = S_OK;
+        this->m_rigidNodePose = new float[7];
+
 
         if (hrResearchMode)
         {
